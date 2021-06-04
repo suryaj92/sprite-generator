@@ -1,0 +1,19 @@
+.link {
+  display: inline-flex;
+  border: 0 none;
+  padding: 0;
+  cursor: pointer;
+
+  &.bold{
+   font-weight: 600;
+  }
+
+  &.is-underline, &.is-underlined {
+    text-decoration: underline;
+  }
+
+  &.is-not-underline {
+    text-decoration: none;
+    border-bottom: none;
+  }
+}

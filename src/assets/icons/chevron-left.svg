@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="15px" viewBox="0 0 9 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevron-left</title>
+    <defs>
+        <path d="M9.91421434,11.9889015 L15.207847,17.2936342 C15.597962,17.6845673 15.5972989,18.3177319 15.2063658,18.707847 C14.8154327,19.097962 14.1822681,19.0972989 13.792153,18.7063658 L7.79215303,12.6937846 C7.40203736,12.3028509 7.40270119,11.6696851 7.79363575,11.2795702 L13.7936357,5.29215147 C14.1845697,4.90203727 14.8177343,4.9027018 15.2078485,5.29363574 C15.5979627,5.68456969 15.5972982,6.31773432 15.2063643,6.70784853 L9.91421434,11.9889015 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-7.000000, -4.921291)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#1A2226" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

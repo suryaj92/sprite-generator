@@ -1,0 +1,23 @@
+@import "global/base/variables";
+@import "global/base/index";
+
+/**
+ * Utils
+ */
+
+@import "global/vendors/index";
+
+/**
+ * Patterns
+ */
+@import "./00-atoms/index";
+@import "./01-molecules/index";
+@import "./02-organisms/index";
+@import "./04-pages/index";
+
+/**
+ * Instead of bloating existing files with dirty changes
+ * and forget to clean it up, add you modifications here,
+ * you'll then remember to review it later
+ */
+@import "shame";

@@ -1,0 +1,17 @@
+// -----------------------------------------------------------------------------
+// Colors
+// -----------------------------------------------------------------------------
+$black-color:                   #000000;
+$white-color:                   #FFFFFF;
+
+// -----------------------------------------------------------------------------
+// Typography
+// -----------------------------------------------------------------------------
+
+$base-font-size:       14;
+$root-font-size:       percentage($base-font-size / 16);
+$default-line-height:  18 / $base-font-size;
+
+$body-font-family:     Helvetica, Open-Sans, "sans-serif-light", sans-serif;
+$body-color:           $black-color;
+$heading-font-weight:   normal;

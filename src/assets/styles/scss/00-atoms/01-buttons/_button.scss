@@ -1,0 +1,66 @@
+$button-height: 50px;
+$button-line-height: 25px;
+$has-icon-spacing-narrow: 6px;
+$has-icon-spacing-wide: 12px;
+$button-icon-size: 40px;
+
+%button {
+  line-height: (14/11);
+  display: inline-flex;
+  height: $button-height;
+  align-content: center;
+  align-items: center;
+  vertical-align: middle;
+  user-select: none;
+  cursor: pointer;
+  text-align: center;
+  justify-content: center;
+  border-width: 0;
+  border-radius: 0;
+}
+
+.button {
+  @extend %button;
+
+  &__wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+
+    svg {
+      display: block;
+    }
+  }
+
+  &__icon {
+    margin-right: $has-icon-spacing-wide;
+    line-height: 1;
+
+    &.is-right {
+      order: 1;
+      margin-left: $has-icon-spacing-wide;
+      margin-right: 0;
+    }
+  }
+}
+
+.button[disabled], .button.is-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+
+.button.is-primary {
+  background-color: $black-color;
+  border-color: $black-color;
+  border-style: solid;
+  border-width: 1px;
+  color: $white-color;
+}
+
+.button.is-secondary {
+  border-color: $black-color;
+  border-style: solid;
+  border-width: 1px;
+}

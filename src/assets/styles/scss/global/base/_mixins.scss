@@ -1,0 +1,27 @@
+@mixin clearfix {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin ratio($width, $height) {
+  position: relative;
+  overflow: hidden;
+
+  & > * {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    padding-bottom: percentage($height / $width);
+    position: relative;
+  }
+}

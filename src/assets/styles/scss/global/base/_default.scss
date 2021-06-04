@@ -1,0 +1,17 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+// Make sure it stays behind the footer
+// Using z-index: -1 makes animation laggy on MS EDGE
+main[role=main] {
+  display: block; // IE11 requirement to apply background color to HTML5 block
+  position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  font-weight: inherit;
+}

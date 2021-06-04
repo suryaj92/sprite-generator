@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevron-up</title>
+    <defs>
+        <path d="M11.9889015,9.91421434 L6.70784853,15.2063643 C6.31773432,15.5972982 5.68456969,15.5979627 5.29363574,15.2078485 C4.9027018,14.8177343 4.90203727,14.1845697 5.29215147,13.7936357 L11.2795702,7.79363575 C11.6696851,7.40270119 12.3028509,7.40203736 12.6937846,7.79215303 L18.7063658,13.792153 C19.0972989,14.1822681 19.097962,14.8154327 18.707847,15.2063658 C18.3177319,15.5972989 17.6845673,15.597962 17.2936342,15.207847 L11.9889015,9.91421434 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-5.000000, -6.921291)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#1A2226" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

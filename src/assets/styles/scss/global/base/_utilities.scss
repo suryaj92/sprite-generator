@@ -1,0 +1,35 @@
+//
+// Float
+//
+
+.is-clearfix {
+  @include clearfix();
+}
+
+.is-pulled-left {
+  float: left;
+}
+
+.is-pulled-right {
+  float: right;
+}
+
+//
+// Text
+//
+
+.has-text-centered {
+  text-align: center;
+}
+
+.has-text-left {
+  text-align: left;
+}
+
+.has-text-right {
+  text-align: right;
+}
+
+.has-text-strong {
+  font-weight: bold;
+}
