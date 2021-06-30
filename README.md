@@ -1,4 +1,4 @@
-# webpack 4 React boilerplate [![GitHub license](https://img.shields.io/badge/license-MIT-lime.svg)](https://github.com/FerJSsilva/webpack-4-react-boilerplate/blob/master/LICENSE)
+<!-- # webpack 4 React boilerplate [![GitHub license](https://img.shields.io/badge/license-MIT-lime.svg)](https://github.com/FerJSsilva/webpack-4-react-boilerplate/blob/master/LICENSE)
 
 A simple and complete Webpack 4 React Boilerplate.
 
@@ -101,4 +101,4 @@ Click [here](https://github.com/FerJSsilva/webpack-4-react-boilerplate/tags) to 
 
 ## License
 
-This project is licensed under the MIT Licensed - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT Licensed - see the [LICENSE](LICENSE) file for details -->
