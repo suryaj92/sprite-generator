@@ -9,7 +9,7 @@
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
-            <use id="Comments" xlink:href="#path-1"></use>
+            <use id="Comments" fill='nonzero' xlink:href="#path-1"></use>
         </g>
     </g>
 </svg>
