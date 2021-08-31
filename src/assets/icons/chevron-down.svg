@@ -4,12 +4,12 @@
     <defs>
         <path d="M11.9889015,14.0857857 L6.70784853,8.79363575 C6.31773432,8.4027018 5.68456969,8.40203727 5.29363575,8.79215148 C4.9027018,9.18226568 4.90203727,9.81543032 5.29215148,10.2063643 L11.2795702,16.2063643 C11.6696851,16.5972988 12.3028509,16.5979626 12.6937846,16.207847 L18.7063658,10.207847 C19.0972989,9.81773191 19.097962,9.18456728 18.707847,8.79363419 C18.3177319,8.4027011 17.6845673,8.40203796 17.2936342,8.79215303 L11.9889015,14.0857857 Z" id="path-1"></path>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Page-1" stroke="nonzero" stroke-width="1" fill="nonzero" fill-rule="evenodd">
         <g id="Group" transform="translate(-5.000000, -7.921291)">
-            <mask id="mask-2" fill="white">
+            <mask id="mask-2" fill="nonzero">
                 <use xlink:href="#path-1"></use>
             </mask>
-            <use id="Shape" fill="#1A2226" xlink:href="#path-1"></use>
+            <use id="Shape" fill="nonzero" xlink:href="#path-1"></use>
         </g>
     </g>
 </svg>
