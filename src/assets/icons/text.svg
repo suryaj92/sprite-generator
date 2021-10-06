@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>text</title>
+    <defs>
+        <path d="M14.689,19 L9.35,19 L9.35,18.5 C9.62866806,18.3986662 10.787665,17.7436669 11.117,17.693 L11.117,6.5 L8.21,6.5 L6.975,9.105 L6.5,9.105 C6.46199981,8.8516654 6.5,5.7533346 6.5,5.5 L17.539,5.5 C17.539,5.7533346 17.5770002,8.83899867 17.539,9.105 L17.045,9.105 L15.848,6.5 L12.941,6.5 L12.941,17.693 C13.270335,17.7563337 14.4229987,18.3859994 14.689,18.5 L14.689,19 Z" id="path-1"></path>
+    </defs>
+    <g id="01---Particles/03---Icon/02---Essentials/06---Editions/Text" stroke="none" stroke-width="1" fill="nonzero" fill-rule="evenodd">
+        <mask id="mask-2" fill="nonzero">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="T" fill="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
