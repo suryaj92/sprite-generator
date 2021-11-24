@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>share</title>
+    <g id="01---Particles/03---Icon/04---Others/Share" stroke="nonzero" stroke-width="1" fill="nonzero" fill-rule="evenodd">
+        <g id="share" transform="translate(4.000000, 4.000000)" fill="nonzero" fill-rule="nonzero">
+            <path d="M16,7.80741805 L9.350708,0.3125 L9.350708,4.78410389 L7.93701172,4.78410389 C3.55346681,4.78410389 0,8.43682553 0,12.9428109 L0,15.3125 L0.627929688,14.6051695 C2.76281738,12.2007225 5.78356934,10.8307322 8.95056153,10.8307322 L9.350708,10.8307322 L9.350708,15.3023361 L16,7.80741805 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

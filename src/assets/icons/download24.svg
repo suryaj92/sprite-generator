@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>download24</title>
+    <defs>
+        <path d="M8.20928198,13.2258105 C8.12837795,13.3398423 7.96909845,13.3675746 7.85352126,13.2877523 C7.82908989,13.2708791 7.80784191,13.2499152 7.79073995,13.2258105 L6.04619875,10.7669334 C5.96529471,10.6529016 5.99340286,10.4957519 6.10898005,10.4159297 C6.15191663,10.386276 6.20305899,10.3703704 6.25546976,10.3703704 L7.33333333,10.3703704 L7.33333333,3.28888867 C7.33333333,2.96160881 7.63181017,2.696296 8,2.696296 C8.36818983,2.696296 8.66666667,2.96160881 8.66666667,3.28888867 L8.66666667,10.3703704 L9.74455217,10.3703704 C9.88563211,10.3703704 10,10.483209 10,10.6224025 C10,10.6741124 9.98387879,10.7245709 9.95382319,10.7669334 L8.20928198,13.2258105 Z" id="path-1"></path>
+    </defs>
+    <g id="01---Particles/03---Icon/02---Essentials/02---Content/Download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 4.000000)">
+            <g id="01---Particles/03---Icon/02---Essentials/07---Settings/Menu/Vertical-Copy-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="white" xlink:href="#path-1"></use>
+            </g>
+            <circle id="Oval" stroke="white" stroke-width="2" cx="8" cy="8" r="7"></circle>
+        </g>
+    </g>
+</svg>
