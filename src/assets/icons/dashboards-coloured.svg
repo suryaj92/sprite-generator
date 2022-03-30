@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dashboards-coloured</title>
+    <g id="dashboards-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 4.000000)" fill-rule="nonzero">
+            <g id="DashboardIconColor" transform="translate(0.100000, 1.600000)">
+                <rect id="Rectangle" fill="#F75848" x="0" y="8.96727273" width="2.47272727" height="4.12363636" rx="0.981818182"></rect>
+                <rect id="Rectangle" fill="#EADF1F" x="4.16727273" y="5.96363636" width="2.47272727" height="7.12727273" rx="0.981818182"></rect>
+                <rect id="Rectangle" fill="#666EBC" x="8.29818182" y="3.63636364" width="2.47272727" height="9.45454545" rx="0.981818182"></rect>
+                <rect id="Rectangle" fill="#12B79D" x="13.2436364" y="0" width="2.47272727" height="13.0909091" rx="0.981818182"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
