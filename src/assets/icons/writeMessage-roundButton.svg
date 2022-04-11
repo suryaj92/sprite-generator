@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>WriteMessage-roundButton</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="16"></rect>
+        <filter x="-21.9%" y="-15.6%" width="143.8%" height="143.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.376470588   0 0 0 0 0.380392157   0 0 0 0 0.439215686  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.160784314   0 0 0 0 0.239215686  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="WriteMessage-roundButton" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02---Atoms/01---Form-Elements/01---Button/3---Icon-Button/2---Medium/1---Filled">
+            <g id="🔶-Button-Style">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="❑-Elevation" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" mask="url(#mask-2)" fill="#0BB89D">
+                    <g id="🎨-Fill-Color">
+                        <rect id="🎨-Color" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(5.500000, 5.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="edit" transform="translate(3.500000, 2.677369)">
+                    <path d="M12.7801406,8.94524276 C12.5896596,8.94524276 12.4352811,9.09731943 12.4352811,9.28496024 L12.4352811,12.3012799 C12.4346075,12.863937 11.9718763,13.3199015 11.4007028,13.3204323 L1.72429719,13.3204323 C1.15312375,13.3199015 0.690392422,12.863937 0.689718878,12.3012799 L0.689718878,3.4485874 C0.690392422,2.88606302 1.15312375,2.43009846 1.72429719,2.42943496 L4.7862718,2.42943496 C4.97675278,2.42943496 5.13113124,2.27735829 5.13113124,2.08971748 C5.13113124,1.90220936 4.97675278,1.75 4.7862718,1.75 L1.72429719,1.75 C0.772431276,1.75106162 0.00107768575,2.51091406 0,3.4485874 L0,12.3014126 C0.00107768575,13.2390859 0.772431276,13.9989384 1.72429719,14 L11.4007028,14 C12.3525687,13.9989384 13.1239223,13.2390859 13.125,12.3014126 L13.125,9.28496024 C13.125,9.09731943 12.9706215,8.94524276 12.7801406,8.94524276 Z" id="Path"></path>
+                    <path d="M13.1088899,0.471765445 C12.4798135,-0.157255148 11.4599238,-0.157255148 10.8308474,0.471765445 L4.44472163,6.8573244 C4.40095615,6.901086 4.36935549,6.95533364 4.35285606,7.01489415 L3.51306209,10.0464688 C3.47852509,10.1707629 3.51362135,10.3038653 3.60478784,10.3951634 C3.6960941,10.4863218 3.8292083,10.521415 3.95351346,10.4870208 L6.98535714,9.6471616 C7.04492293,9.63066359 7.09917536,9.59906578 7.14294087,9.55530415 L13.5289267,3.16960538 C14.1570244,2.54016534 14.1570244,1.52120507 13.5289267,0.891764987 L13.1088899,0.471765445 Z M5.22467017,7.08997395 L10.4512202,1.86374795 L12.1368207,3.54919885 L6.91013082,8.77542485 L5.22467017,7.08997395 Z M4.88796955,7.76555244 L6.23463222,9.1122354 L4.37187237,9.62828677 L4.88796955,7.76555244 Z M12.6431301,3.04307424 L10.9573898,1.35748353 L11.3371567,0.97789006 C11.6865815,0.62849629 12.2531558,0.62849629 12.6025806,0.97789006 L13.0227572,1.3978896 C13.3716227,1.74770282 13.3716227,2.31380739 13.0227572,2.66348077 L12.6431301,3.04307424 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
