@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../assets/styles/scss/index.scss';
 
-export default function App() { 
+export default function App() {
   return (
       <div className="App">
       <header className="App-header">
